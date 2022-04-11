@@ -1,0 +1,38 @@
+.main_div{
+    color: red;
+    place-content: center;
+    display: grid;
+    height: 100%;
+    margin-top: 10px;
+}
+
+.main_div h2 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3px;
+    
+
+}
+
+.content {
+    color: black;
+    font-family: monospace;
+    padding-left: 36px;
+    box-shadow: -3px 18px 27px -26px;
+    border-radius: 13px;
+    margin-top: 31px;
+    list-style: none;
+    background-color: cornsilk;
+}
+
+.content li {
+
+    margin-bottom: 3px;
+  
+}
+
+#submit:hover {
+
+    border: none;
+    background-color: aqua;
+}
